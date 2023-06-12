@@ -1,0 +1,94 @@
+<svg viewBox="25 50 1024 1024"  width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <rect x="25" y="50" width="974" height="974" fill="#fff" stroke="#000" stroke-width="2"/>
+
+    <defs>
+        <g id="border">
+            <rect x="200" y="370" width="100" height="200" fill="none" rx="50" ry="50"/>
+            <path d="M250,370 L350,370 Q370,370 384,380 L440,420" fill="none"/>
+            <rect x="200" y="410" height="514" width="624" fill="none" rx="50" ry="50"/>
+        </g>
+
+
+
+        <g id="shadow">
+
+            <rect x="200" y="400" height="200" width="624" fill="#7c7c7c" rx="50" ry="50"/>
+
+            <rect x="200" y="410" height="200" width="624" fill="#7c7c7c" rx="50" ry="50"/>
+            <rect x="200" y="411" height="200" width="624" fill="#787878" rx="50" ry="50"/>
+            <rect x="200" y="412" height="200" width="624" fill="#747474" rx="50" ry="50"/>
+            <rect x="200" y="413" height="200" width="624" fill="#707070" rx="50" ry="50"/>
+            <rect x="200" y="414" height="200" width="624" fill="#6c6c6c" rx="50" ry="50"/>
+            <rect x="200" y="415" height="200" width="624" fill="#686868" rx="50" ry="50"/>
+            <rect x="200" y="416" height="200" width="624" fill="#646464" rx="50" ry="50"/>
+            <rect x="200" y="417" height="200" width="624" fill="#606060" rx="50" ry="50"/>
+            <rect x="200" y="418" height="200" width="624" fill="#5c5c5c" rx="50" ry="50"/>
+            <rect x="200" y="419" height="200" width="624" fill="#585858" rx="50" ry="50"/>
+            <rect x="200" y="420" height="200" width="624" fill="#545454" rx="50" ry="50"/>
+            <rect x="200" y="421" height="200" width="624" fill="#505050" rx="50" ry="50"/>
+            <rect x="200" y="422" height="200" width="624" fill="#4c4c4c" rx="50" ry="50"/>
+            <rect x="200" y="423" height="200" width="624" fill="#484848" rx="50" ry="50"/>
+            <rect x="200" y="424" height="200" width="624" fill="#444444" rx="50" ry="50"/>
+            <rect x="200" y="425" height="200" width="624" fill="#404040" rx="50" ry="50"/>
+            <rect x="200" y="426" height="200" width="624" fill="#3c3c3c" rx="50" ry="50"/>
+            <rect x="200" y="427" height="200" width="624" fill="#383838" rx="50" ry="50"/>
+            <rect x="200" y="428" height="200" width="624" fill="#343434" rx="50" ry="50"/>
+            <rect x="200" y="429" height="200" width="624" fill="#303030" rx="50" ry="50"/>
+            <rect x="200" y="430" height="200" width="624" fill="#2c2c2c" rx="50" ry="50"/>
+            <rect x="200" y="431" height="200" width="624" fill="#282828" rx="50" ry="50"/>
+            <rect x="200" y="432" height="200" width="624" fill="#242424" rx="50" ry="50"/>
+            <rect x="200" y="433" height="200" width="624" fill="#202020" rx="50" ry="50"/>
+            <rect x="200" y="434" height="200" width="624" fill="#1c1c1c" rx="50" ry="50"/>
+            <rect x="200" y="435" height="200" width="624" fill="#181818" rx="50" ry="50"/>
+            <rect x="200" y="436" height="200" width="624" fill="#141414" rx="50" ry="50"/>
+            <rect x="200" y="437" height="200" width="624" fill="#101010" rx="50" ry="50"/>
+            <rect x="200" y="438" height="200" width="624" fill="#0c0c0c" rx="50" ry="50"/>
+            <rect x="200" y="439" height="200" width="624" fill="#080808" rx="50" ry="50"/>
+        </g>
+
+    </defs>
+
+    <rect x="200" y="150" width="624" height="400" fill="#222" rx="50" ry="50"/>
+
+    <rect x="650" y="80" width="244" height="244" fill="#f0f" rx="10" ry="10" stroke="#fff" stroke-width="20"/>
+    <polygon points="650,150 630,70 904,70 904,344 824,324" fill="#fff"/>
+
+
+    <rect x="250" y="200" width="154" height="40" rx="20" ry="20" fill="#fff" stroke="#f0f" stroke-width="8"/>
+    <rect x="436" y="200" width="154" height="40" rx="20" ry="20" fill="#fff" stroke="#f0f" stroke-width="8"/>
+
+    <rect x="250" y="270" width="92" height="40" rx="20" ry="20" fill="#fff" stroke="#f0f" stroke-width="8"/>
+    <rect x="374" y="270" width="92" height="40" rx="20" ry="20" fill="#fff" stroke="#f0f" stroke-width="8"/>
+    <rect x="498" y="270" width="92" height="40" rx="20" ry="20" fill="#fff" stroke="#f0f" stroke-width="8"/>
+
+
+
+    <use xlink:href="#border" stroke="#fff" stroke-width="40"/>
+
+
+    <rect x="200" y="370" width="100" height="200" fill="#7c7c7c" rx="50" ry="50"/>
+    <path d="M250,430 L250,370 L350,370 Q370,370 384,380 L440,420" fill="#7c7c7c"/>
+
+    <use xlink:href="#shadow" y="10"/>
+
+    <!-- the big rect in the folder -->
+    <rect x="200" y="450" height="474" width="624" fill="#2c2c2c" rx="50" ry="50"/>
+
+    <rect x="200" y="500" height="374" width="624" fill="#777"/>
+    <rect x="200" y="520" height="334" width="624" fill="#2c2c2c"/>
+    <rect x="220" y="540" height="294" width="584" fill="#777" rx="25" ry="25"/>
+
+
+    <text x="512" y="687" dy=".35em" style="
+            font-size: 250px;
+            font-weight: bold;
+            font-family: Sans-Serif;
+            text-anchor: middle;
+            fill: #f0f;
+            stroke: #000;
+            stroke-width: 10px;
+            stroke-linejoin: round;"
+    >NAC</text>
+
+</svg>
